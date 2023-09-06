@@ -17,3 +17,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlavaNik16&theme=synthwave)
 ![GitHub Stats](gitartwork.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
