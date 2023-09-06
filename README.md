@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander Halle</h1>
+<h1 align="center">Привет 👋, Я Kcandr Collins</h1>
 
 ### Languages and Tools:
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase&logoColor=F8C52C)
