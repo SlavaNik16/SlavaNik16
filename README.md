@@ -5,6 +5,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=black)
 ![CSS](https://img.shields.io/badge/-Css-white?style=for-the-badge&logo=CSS&logoColor=Green)
+![C#](https://img.shields.io/badge/-Css-white?style=for-the-badge&logo=CSS&logoColor=Green)
 
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
 ![C#](https://img.shields.io/badge/-C_Sharp-white?style=for-the-badge&logo=CSharp&logoColor=purple)
