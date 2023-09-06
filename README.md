@@ -3,9 +3,7 @@
 ### Languages and Tools:
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=black)
 ![CSS](https://img.shields.io/badge/-Css-white?style=for-the-badge&logo=CSS&logoColor=Green)
-![C#](https://img.shields.io/badge/-C#-white?style=for-the-badge&logo=C#&logoColor=Red)
 
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
 ![C#](https://img.shields.io/badge/-C_Sharp-white?style=for-the-badge&logo=CSharp&logoColor=purple)
