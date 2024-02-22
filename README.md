@@ -14,8 +14,6 @@
 ![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nikolaev2710)
 # My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlavaNik16&theme=synthwave)
 ![GitHub Stats](gitartwork.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlavaNik16)](https://github.com/ryo-ma/github-profile-trophy)
